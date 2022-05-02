@@ -9,4 +9,5 @@ function draw() {
   ellipse(20,100,100);
   fill ('pink');
   ellipse(20,300,300);
+  rect(20,20,20,20);
 }
